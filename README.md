@@ -1,22 +1,31 @@
-Este repositorio contiene implementaciones y diseños de circuitos para ejercicios de la asignatura "Arquitectura de Computadoras (INF253)".
+## Usage Instructions
 
-## Ejercicios
+This repository contains circuit designs created with Logicly. To view and simulate these circuits, follow the steps below:
 
-- [Sistema de Decisión de Directorio](Combinacionales/Sistema%20de%20Decisión%20de%20Directorio/README.md)
-- [Control de Compuertas de Represa](Combinacionales/Control%20de%20Compuertas%20de%20Represa/README.md)
-- [Control de Máquina Trituradora](Combinacionales/Control%20de%20Máquina%20Trituradora/README.md)
-- ...
+1. **Download and Install Logicly:**
+   - Download Logicly from the [official Logicly website](https://logic.ly/).
+   - Install the application following the instructions provided on the website.
 
-- [Control de Puentes Levadizos](Secuenciales/Control%20de%20Puentes%20Levadizos/README.md)
-- [Comportamiento de Robot en Circulo](Secuenciales/Comportamiento%20de%20Robot%20en%20Circulo/README.md)
-- [Control de Máquina Proveedora de Gasolina](Secuenciales/Control%20de%20Máquina%20Proveedora%20de%20Gasolina/README.md)
-- ...
+2. **Clone or Download the Repository:**
+   - Clone this repository to your local machine using Git or download it as a ZIP file and extract it.
 
+```bash
+   git clone https://github.com/YOUR_USERNAME/REPOSITORY_NAME.git
+```
+3. **Open Circuits with Logicly:**
+   - Open Logicly on your machine.
+   - To view a specific circuit, navigate to the folder corresponding to the exercise of interest, for example:
+```bash
+   cd Combinacionales/1\ -\ Sistema\ de\ Decisión\ de\ Directorio
+```
+   - Inside the folder, you will find a file with the extension ".logicly". Open this file with Logicly.
 
+4. **Visualize and Simulate the Circuit:**
+   - Inside Logicly, you can view the visual representation of the circuit and simulate its operation.
 
+## Circuits
 
-# Sistema de Decisión de Directorio
+- [Sistema de Decisión de Directorio](Combinacionales/1%20-%20Sistema%20de%20Decisi%C3%B3n%20de%20Directorio)
 
-![Circuito Sistema de Decisión](imagenes/circuito_sistema_decision.png)
+![Circuito Sistema de Decisión](Combinacionales/1%20-%20Sistema%20de%20Decisi%C3%B3n%20de%20Directorio/sistema-de-decisi%C3%B3n-de-directorio.png)
 
-Descripción detallada del ejercicio y del diseño del circuito.
