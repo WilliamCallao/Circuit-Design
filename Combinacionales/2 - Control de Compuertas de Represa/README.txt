@@ -1,0 +1,4 @@
+
+Diseña un circuito que permita controlar las compuertas de una represa, las cuales se activan de acuerdo al nivel del agua de la represa. Para ello, se cuentan con tres sensores ubicados estratégicamente en distintos puntos de la represa. Uno de los sensores está en la zona más alta de la represa, y los otros dos están en zonas bajas, uno a la izquierda y otro a la derecha.
+
+Cuando el sensor de la zona más alta de la represa se activa, se deben abrir dos compuertas. Si el sensor de la derecha se activa, se cierra la compuerta derecha y se abre la del medio. En caso de que el sensor de la izquierda se active, debido a que hay un declive, se decide abrir la compuerta izquierda. Es importante destacar que al menos una compuerta debe estar abierta en algún momento.
