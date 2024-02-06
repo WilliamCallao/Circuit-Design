@@ -29,3 +29,6 @@ This repository contains circuit designs created with Logicly. To view and simul
 
 ![Circuito Sistema de Decisión](Combinacionales/1%20-%20Sistema%20de%20Decisi%C3%B3n%20de%20Directorio/sistema-de-decisi%C3%B3n-de-directorio.png)
 
+- [Control de Compuertas de Represa](Combinacionales/2%20-%20Control%20de%20Compuertas%20de%20Represa)
+
+![Control de Compuertas de Represa](Combinacionales/2%20-%20Control%20de%20Compuertas%20de%20Represa/control-de-compuertas-de-represa.png)
