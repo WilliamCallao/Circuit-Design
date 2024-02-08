@@ -33,6 +33,6 @@ This repository contains circuit designs created with Logicly. To view and simul
 
 ![Control de Compuertas de Represa](Combinacionales/2%20-%20Control%20de%20Compuertas%20de%20Represa/control-de-compuertas-de-represa.png)
 
-- [Control de Máquina Trituradora]([Combinacionales/2%20-%20Control%20de%20Compuertas%20de%20Represa](https://github.com/WilliamCallao/circuit-design/blob/main/Combinacionales/3%20-%20Control%20de%20M%C3%A1quina%20Trituradora/control-de-m%C3%A1quina-trituradora.png)https://github.com/WilliamCallao/circuit-design/blob/main/Combinacionales/3%20-%20Control%20de%20M%C3%A1quina%20Trituradora/control-de-m%C3%A1quina-trituradora.png)
+- [Control de Máquina Trituradora](Combinacionales/3%20-%20Control%20de%20M%C3%A1quina%20Trituradora)
 
 ![Control de Compuertas de Represa](Combinacionales/2%20-%20Control%20de%20Compuertas%20de%20Represa/control-de-compuertas-de-represa.png)
