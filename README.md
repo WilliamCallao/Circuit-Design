@@ -27,7 +27,7 @@ This repository contains circuit designs created with Logicly. To view and simul
 
 - [Sistema de Decisión de Directorio](Combinacionales/1%20-%20Sistema%20de%20Decisi%C3%B3n%20de%20Directorio)
 
-![Circuito Sistema de Decisión](Combinacionales/1%20-%20Sistema%20de%20Decisi%C3%B3n%20de%20Directorio/sistema-de-decisi%C3%B3n-de-directorio.png)
+![Sistema de Decisión de Directorio](Combinacionales/1%20-%20Sistema%20de%20Decisi%C3%B3n%20de%20Directorio/sistema-de-decisi%C3%B3n-de-directorio.png)
 
 - [Control de Compuertas de Represa](Combinacionales/2%20-%20Control%20de%20Compuertas%20de%20Represa)
 
@@ -35,7 +35,7 @@ This repository contains circuit designs created with Logicly. To view and simul
 
 - [Control de Máquina Trituradora](Combinacionales/3%20-%20Control%20de%20M%C3%A1quina%20Trituradora)
 
-![Control de Compuertas de Represa](Combinacionales/3%20-%20Control%20de%20M%C3%A1quina%20Trituradora/control-de-m%C3%A1quina-trituradora.png)
+![Control de Máquina Trituradora](Combinacionales/3%20-%20Control%20de%20M%C3%A1quina%20Trituradora/control-de-m%C3%A1quina-trituradora.png)
 
 - [Control de Puentes Levadizos](Secuenciales/1%20-%20Control%20de%20Puentes%20Levadizos)
 
