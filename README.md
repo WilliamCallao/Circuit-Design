@@ -36,3 +36,10 @@ This repository contains circuit designs created with Logicly. To view and simul
 - [Control de Máquina Trituradora](Combinacionales/3%20-%20Control%20de%20M%C3%A1quina%20Trituradora)
 
 ![Control de Compuertas de Represa](Combinacionales/3%20-%20Control%20de%20M%C3%A1quina%20Trituradora/control-de-m%C3%A1quina-trituradora.png)
+
+- [Control de Puentes Levadizos](Secuenciales/1%20-%20Control%20de%20Puentes%20Levadizos)
+
+![Control de Puentes Levadizos](Secuenciales/1%20-%20Control%20de%20Puentes%20Levadizos/Control-de-Puentes-Levadizos.png)
+
+
+
