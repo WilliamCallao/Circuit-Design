@@ -41,5 +41,9 @@ This repository contains circuit designs created with Logicly. To view and simul
 
 ![Control de Puentes Levadizos](Secuenciales/1%20-%20Control%20de%20Puentes%20Levadizos/Control-de-Puentes-Levadizos.png)
 
+- [Control de Puentes Levadizos](Secuenciales/1%20-%20Control%20de%20Puentes%20Levadizos)
+
+![Control de Puentes Levadizos](Secuenciales/1%20-%20Control%20de%20Puentes%20Levadizos/Control-de-Puentes-Levadizos.png)
+
 
 
