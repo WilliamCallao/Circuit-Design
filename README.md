@@ -45,6 +45,9 @@ This repository contains circuit designs created with Logicly. To view and simul
 
 ![Control de Puentes Levadizos](Secuenciales/2%20-%20Comportamiento%20de%20Robot%20en%20Circulo/comportamiento-de-robot-en-circulo.png)
 
+- [ Comportamiento de Robot en Circulo](Secuenciales/2%20-%20Comportamiento%20de%20Robot%20en%20Circulo/circuito.pdf)
+
+![Control de Puentes Levadizos](Secuenciales/2%20-%20Comportamiento%20de%20Robot%20en%20Circulo/comportamiento-de-robot-en-circulo.png)
 
 
 
