@@ -49,7 +49,7 @@ This repository contains circuit designs created with Logicly. To view and simul
 
 ![Comportamiento de Robot en Circulo](Secuenciales/3%20-%20Control%20de%20M%C3%A1quina%20Proveedora%20de%20Gasolina)
 
-- [ Comportamiento de Robot en Circulo](Secuenciales/3%20-%20Control%20de%20M%C3%A1quina%20Proveedora%20de%20Gasolina/Control%20de%20M%C3%A1quina%20Proveedora%20de%20Gasolina.png)
+- [ Comportamiento de Robot en Circulo](Secuenciales/3%20-%20Control%20de%20M%C3%A1quina%20Proveedora%20de%20Gasolina/Control%20de%20M%C3%A1quina%20Proveedora%20de%20Gasolina.png](https://github.com/WilliamCallao/circuit-design/blob/main/Secuenciales/3%20-%20Control%20de%20M%C3%A1quina%20Proveedora%20de%20Gasolina/Control%20de%20M%C3%A1quina%20Proveedora%20de%20Gasolina.png)https://github.com/WilliamCallao/circuit-design/blob/main/Secuenciales/3%20-%20Control%20de%20M%C3%A1quina%20Proveedora%20de%20Gasolina/Control%20de%20M%C3%A1quina%20Proveedora%20de%20Gasolina.png)
 
 
 
