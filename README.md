@@ -45,8 +45,6 @@ This repository contains circuit designs created with Logicly. To view and simul
 
 ![Comportamiento de Robot en Circulo](Secuenciales/2%20-%20Comportamiento%20de%20Robot%20en%20Circulo/comportamiento-de-robot-en-circulo.png)
 
-- [ Comportamiento de Robot en Circulo](Secuenciales/3%20-%20Control%20de%20M%C3%A1quina%20Proveedora%20de%20Gasolina)
-
 - [ Comportamiento de Robot en Circulo](Secuenciales/2%20-%20Comportamiento%20de%20Robot%20en%20Circulo)
 
 ![Comportamiento de Robot en Circulo](Secuenciales/2%20-%20Comportamiento%20de%20Robot%20en%20Circulo/comportamiento-de-robot-en-circulo.png)
